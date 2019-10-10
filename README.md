@@ -1,4 +1,4 @@
-# baze
+# artwork-forum
 
 ## Project setup
 ```
